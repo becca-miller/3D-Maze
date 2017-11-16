@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeTutorial.Plugins", "MazeTutorial.Plugins.csproj", "{45BCD17A-A870-1B45-B51A-F9A5D4C41F04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeTutorial", "MazeTutorial.csproj", "{B0D47C16-2FEF-8418-5338-55481A4F352E}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeTutorial.Editor.Plugins", "MazeTutorial.Editor.Plugins.csproj", "{3E3E4D87-F2AA-2ABE-EF70-9730796892F6}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{45BCD17A-A870-1B45-B51A-F9A5D4C41F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45BCD17A-A870-1B45-B51A-F9A5D4C41F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45BCD17A-A870-1B45-B51A-F9A5D4C41F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D47C16-2FEF-8418-5338-55481A4F352E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D47C16-2FEF-8418-5338-55481A4F352E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D47C16-2FEF-8418-5338-55481A4F352E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D47C16-2FEF-8418-5338-55481A4F352E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3E3E4D87-F2AA-2ABE-EF70-9730796892F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3E3E4D87-F2AA-2ABE-EF70-9730796892F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E3E4D87-F2AA-2ABE-EF70-9730796892F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
